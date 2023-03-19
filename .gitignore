@@ -1,3 +1,8 @@
+#files to ignore
+fruits-360
+Reference
+models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
